@@ -9,20 +9,20 @@
     "start": "arc sandbox"
   },
   "dependencies": {
-    "@remix-run/react": "0.17.0",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1",
-    "react-router-dom": "^6.0.0-beta.0",
-    "remix": "0.17.0",
-    "@architect/functions": "^3.13.3",
+    "@architect/functions": "3.13.11",
     "@remix-run/architect": "0.17.0",
-    "aws-sdk": "2.796.0"
+    "@remix-run/react": "0.17.0",
+    "aws-sdk": "2.902.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-router-dom": "6.0.0-beta.0",
+    "remix": "0.17.0"
   },
   "devDependencies": {
     "@remix-run/dev": "0.17.0",
-    "@types/react": "^17.0.1",
-    "@types/react-dom": "^17.0.0",
-    "typescript": "^4.1.2"
+    "@types/react": "17.0.5",
+    "@types/react-dom": "17.0.3",
+    "typescript": "4.2.4"
   },
   "engines": {
     "node": ">=14"
